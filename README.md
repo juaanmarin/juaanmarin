@@ -11,7 +11,7 @@
 </br>
 [![html](https://img.shields.io/badge/html-4479A1?style=for-the-badge&logo=html&logoColor=oange&labelColor=101010)]()
 </br>
-[![flask](https://img.shields.io/badge/flask-4479A1?style=for-the-badge&logo=flask&logoColor=white&labelColor=101010)]()
+[![flask](https://img.shields.io/badge/flask-F7DF1E?style=for-the-badge&logo=flask&logoColor=white&labelColor=101010)]()
 
 ## Find me at:
 
