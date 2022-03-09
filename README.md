@@ -3,12 +3,15 @@
 
 
 ## Skills:
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=red&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![python](https://img.shields.io/badge/python-4479A1?style=for-the-badge&logo=python&logoColor=violet&labelColor=101010 )]() 
+[![python](https://img.shields.io/badge/python-4479A1?style=for-the-badge&logo=python&logoColor=blue&labelColor=101010 )]() 
 </br>
-And more...
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+</br>
+[![html](https://img.shields.io/badge/html-4479A1?style=for-the-badge&logo=html&logoColor=oange&labelColor=101010)]()
+</br>
+[![flask](https://img.shields.io/badge/flask-4479A1?style=for-the-badge&logo=flask&logoColor=white&labelColor=101010)]()
 
 ## Find me at:
 
