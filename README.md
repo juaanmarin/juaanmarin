@@ -3,11 +3,11 @@
 
 
 ## Skills:
-[![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-#FF0000?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=101010)]()
 [![python](https://img.shields.io/badge/python-F7DF1E?style=for-the-badge&logo=python&logoColor=blue&labelColor=101010 )]() 
 </br>
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 [![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML&logoColor=orange&labelColor=101010)]()
 [![css](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&logoColor=orange&labelColor=101010)]()
