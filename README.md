@@ -5,7 +5,7 @@
 ## Skills:
 [![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=101010)]()
-[![python](https://img.shields.io/badge/python-4479A1?style=for-the-badge&logo=python&logoColor=yellow&labelColor=101010 )]() 
+[![python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=blue&labelColor=101010 )]() 
 </br>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
