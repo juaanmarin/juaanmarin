@@ -3,7 +3,7 @@
 
 
 ## Skills:
-[![Java](https://img.shields.io/badge/Java-#FF0000?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=101010)]()
 [![python](https://img.shields.io/badge/python-F7DF1E?style=for-the-badge&logo=python&logoColor=blue&labelColor=101010 )]() 
 </br>
