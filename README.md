@@ -21,4 +21,4 @@
 
 ## Contact me:
 
-[![Email](https://img.shields.io/badge/EMAIL-juan_david_marin-36DD15?style=for-the-badge&logo=gmail&logoColor=FF0000&labelColor=101010)](Juaanmarin2007@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-juan_david_marin-36DD15?style=for-the-badge&logo=gmail&logoColor=FFF700&labelColor=101010)](Juaanmarin2007@gmail.com)
