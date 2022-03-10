@@ -16,8 +16,8 @@
 
 ## Find me at:
 
-[![blog](https://img.shields.io/badge/blog-i_am_developer-14a1f0?style=for-the-badge&logo=blogger&logoColor=FF8300&labelColor=101010)](iloveprograming1.blogspot.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-juan_david_marin-0077B5?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=101010)](www.linkedin.com/in/juan-david-marín-velasquez-911b16230)
+[![blog](https://img.shields.io/badge/blog-i_love_programing-FF9700?style=for-the-badge&logo=blogger&logoColor=FF8300&labelColor=101010)](iloveprograming1.blogspot.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-juan_david_marin-398E93?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=101010)](www.linkedin.com/in/juan-david-marín-velasquez-911b16230)
 
 ## Contact me:
 
