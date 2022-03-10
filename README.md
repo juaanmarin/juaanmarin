@@ -3,8 +3,8 @@
 
 
 ## Skills:
-[![python](https://img.shields.io/badge/python-FFF700?style=for-the-badge&logo=python&logoColor=blue&labelColor=101010 )]()__
-[![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![python](https://img.shields.io/badge/python-FFF700?style=for-the-badge&logo=python&logoColor=blue&labelColor=101010 )]()
+  [![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=FFF700&labelColor=101010)]()
 </br>
 [![MySQL](https://img.shields.io/badge/MySQL-93FF00?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
