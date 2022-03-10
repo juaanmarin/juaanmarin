@@ -18,7 +18,7 @@
 
 ### Spanish
 [![Web](https://img.shields.io/badge/Mi_Sitio_Web-devexperto.com-14a1f0?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://devexperto.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio_Leiva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://devexperto.com/linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-juan_david_marin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juan-david-mar%C3%ADn-velasquez-911b16230?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5QeL%2BfyjRxmjJYKGuKp%2BeA%3D%3D)
 
 ## Contact me:
 
