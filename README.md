@@ -1,6 +1,5 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">! My name is Juan David Marin, I am 17 years old
+# Hi there 👋 My name is Juan David Marin, I am 17 years old
 ### i am from colombia currently studying software development 💻
-
 
 ## Skills:
 [![python](https://img.shields.io/badge/python-FFF700?style=for-the-badge&logo=python&logoColor=blue&labelColor=2E2C22 )]()
