@@ -12,6 +12,7 @@
 [![css](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=blue&labelColor=2E2C22)]()
 </br>
 [![flask](https://img.shields.io/badge/flask-F7DF1E?style=for-the-badge&logo=flask&logoColor=white&labelColor=2E2C22)]()
+[![react](https://img.shields.io/badge/react-B5B5B5?style=for-the-badge&logo=react&logoColor=00F3FF&labelColor=2E2C22)]()
 </br>
 ## Find me at 🔍: 
 
