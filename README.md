@@ -1,12 +1,14 @@
-# Hi there 👋 My name is Juan David Marin, I am 18 years old
-### i am from colombia currently studying software development 💻
+# Hi there 👋 My name is Juan David Marin, I am 19 years old
+### i am from colombia, I am currently a software developer. 💻
 
 ## Skills:
-[![python](https://img.shields.io/badge/python-FFF700?style=for-the-badge&logo=python&logoColor=blue&labelColor=2E2C22 )]()
-[![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=white&labelColor=2E2C22)]()
+[![PHP](https://img.shields.io/badge/PHP-FFF700?style=for-the-badge&logo=PHP&logoColor=blue&labelColor=2E2C22)]()
+[![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=2E2C22)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=FFF700&labelColor=2E2C22)]()
+[![python](https://img.shields.io/badge/python-FFF700?style=for-the-badge&logo=python&logoColor=blue&labelColor=2E2C22 )]()
 </br>
 [![MySQL](https://img.shields.io/badge/MySQL-93FF00?style=for-the-badge&logo=mysql&logoColor=white&labelColor=2E2C22)]()
+[![SQL server](https://img.shields.io/badge/microsoft_sql_server-FF0000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=2E2C22)]()
 </br>
 [![HTML](https://img.shields.io/badge/HTML5-FF8300?style=for-the-badge&logo=html5&logoColor=orange&labelColor=2E2C22)]()
 [![css](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=blue&labelColor=2E2C22)]()
