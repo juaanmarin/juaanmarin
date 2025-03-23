@@ -1,4 +1,4 @@
-# Hi there 👋 My name is Juan David Marin, I am 19 years old
+# Hi there 👋 My name is Juan David Marin, I am 20 years old
 ### i am from colombia, I am currently a software developer. 💻
 
 ## Skills:
